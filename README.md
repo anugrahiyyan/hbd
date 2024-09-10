@@ -1,6 +1,6 @@
 # Happy Birthday
 
-Website - [Happy Birthday](https:)
+Website - [Happy Birthday]([https:](https://anugrahiyyan.github.io/hbd/))
 
 An easy to deploy, Happy Birthday animation design TEMPLATE.
 
